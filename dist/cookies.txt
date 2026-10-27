@@ -1,0 +1,3 @@
+Coordinates — cookie information
+
+The Coordinates application does not set cookies or use persistent browser storage. No analytics or advertising trackers are included. Hosting platforms, reverse proxies or CDNs may apply their own security or authentication mechanisms. See privacy.html for details.

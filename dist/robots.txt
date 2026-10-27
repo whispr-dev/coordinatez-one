@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coordinates.black-ibex-2842.chatgpt.site/sitemap.xml

@@ -1,0 +1,11 @@
+# Coordinates
+
+> Free GPS coordinate converter and interactive world time globe by whispr.dev.
+
+- [Tool](https://coordinates.black-ibex-2842.chatgpt.site/): Convert WGS 84 latitude/longitude between decimal and DMS. Explore civil clocks and representative IANA time zone locations on a draggable globe.
+- [About and data](https://coordinates.black-ibex-2842.chatgpt.site/about.html)
+- [Privacy](https://coordinates.black-ibex-2842.chatgpt.site/privacy.html)
+- [whispr.dev](https://whispr.dev/)
+- [SkeleTrace](https://skeletrace.com/)
+
+Timezone lookup is approximate near boundaries. Globe meridians are solar guides, not political timezone boundaries. Clocks use the device clock and browser timezone rules.

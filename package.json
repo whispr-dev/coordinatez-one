@@ -1,0 +1,13 @@
+{
+  "name": "coordinates-whispr",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A static GPS coordinate converter and world time globe by whispr.dev",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs",
+    "check": "node scripts/brand-check.mjs",
+    "assets": "node scripts/brand-assets.cjs"
+  },
+  "engines": { "node": ">=22" },
+  "devDependencies": { "sharp": "0.35.5" }
+}
